@@ -1,4 +1,5 @@
 .. |TITLE| replace:: TODO_DOCUMENT_TITLE
+.. |SUBTITLE| replace:: TODO_DOCUMENT_SUBTITLE
 .. |DATE| replace:: TODO_DOCUMENT_DATE
 .. |REVISION| replace:: 1
 .. |AUTHORS| replace:: TODO_AUTHOR_NAME

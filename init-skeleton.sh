@@ -107,3 +107,13 @@ sed -i "" \
     -e "s/^====$/${DOCUMENT_TITLE_UNDERLINE}/" \
     main.rst
 
+DOCUMENT_SUBTITLE_UNDERLINE=$(echo "${DOCUMENT_SUBTITLE}" | tr '[:print:]' '-')
+
+sed -i "" \
+    -e "s/^----$/${DOCUMENT_SUBTITLE_UNDERLINE}/" \
+    README.rst
+
+sed -i "" \
+    -e "s/^----$/${DOCUMENT_SUBTITLE_UNDERLINE}/" \
+    main.rst
+

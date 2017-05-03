@@ -9,6 +9,10 @@
 TODO_DOCUMENT_TITLE
 ====
 
+----
+TODO_DOCUMENT_SUBTITLE
+----
+
 :Author: |AUTHORS|
 :Contact: |CONTACT|
 :Revision: |REVISION|
