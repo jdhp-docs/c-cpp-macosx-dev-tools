@@ -5,13 +5,13 @@
 
 .. include:: meta.rst
 
-====
-TODO_DOCUMENT_TITLE
-====
+=======================
+C/C++ programming tools
+=======================
 
-----
-TODO_DOCUMENT_SUBTITLE
-----
+----------------------------------
+Useful tools for MacOSX developers
+----------------------------------
 
 :Author: |AUTHORS|
 :Contact: |CONTACT|

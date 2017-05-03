@@ -1,15 +1,15 @@
-====
-TODO_DOCUMENT_TITLE
-====
+=======================
+C/C++ programming tools
+=======================
 
-----
-TODO_DOCUMENT_SUBTITLE
-----
+----------------------------------
+Useful tools for MacOSX developers
+----------------------------------
 
-TODO_COPYRIGHT_NOTICE
+Copyright (c) 2016,2017 Jérémie DECOCK (www.jdhp.org)
 
-* Read online: TODO_DOCUMENT_HTML_URL
-* PDF version: TODO_DOCUMENT_PDF_URL
-* Abstract on JDHP: TODO_DOCUMENT_WEB_SITE_URL
-* Source code: TODO_DOCUMENT_GIT_FORGE_PROJECT_URL
+* Read online: http://www.jdhp.org/docs/c_cpp_macosx_dev_tools_en/c_cpp_macosx_dev_tools_en.html
+* PDF version: http://www.jdhp.org/dl/pdf/c_cpp_macosx_dev_tools_en.pdf
+* Abstract on JDHP: http://www.jdhp.org/documentation_en.html#c_cpp_macosx_dev_tools_en
+* Source code: https://github.com/jdhp-docs/c-cpp-macosx-dev-tools
 
