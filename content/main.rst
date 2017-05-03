@@ -7,15 +7,15 @@ Tools list
 
 - ``otool``
 
-  - `Display the names and version numbers of the shared libraries that an object file uses`_
+  - `Display the shared libraries used by an object file`_
 
 - ``install_name_tool``
 
-  - `Changes the dynamic shared library install names in a Mach-O binary`_
+  - `Changes the dynamic shared library path in a Mach-O binary`_
   - Adds, changes or deletes the rpaths recorded in a Mach-O binary
 
-Display the names and version numbers of the shared libraries that an object file uses
-======================================================================================
+Display the shared libraries used by an object file
+===================================================
 
 ::
 
@@ -23,8 +23,8 @@ Display the names and version numbers of the shared libraries that an object fil
 
 File can be an executable, a library or an object file.
 
-Changes the dynamic shared library install names in a Mach-O binary
-===================================================================
+Changes the dynamic shared library path in a Mach-O binary
+==========================================================
 
 ::
 
