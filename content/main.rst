@@ -2,17 +2,21 @@
 
 .. TODO: one section per tool or one section per usage ? -> per (concrete) usage ! should add a "Tools list" section at the beginning with links to following sections ?
 
+.. TODO: as(1), ar(1), cc(1), nm(1), otool(1) lipo(1), arch(3), dyld(3), Mach-O(5), strip(1), rebase(1), stab(5), nlist(3), install_name_tool(1), dyld(1), libtool(1), dyldinfo(1), 
+
 Tools list
 ==========
-
-- ``otool``
-
-  - `Display the shared libraries used by an object file`_
 
 - ``install_name_tool``
 
   - `Changes the dynamic shared library path in a Mach-O binary`_
   - Adds, changes or deletes the rpaths recorded in a Mach-O binary
+
+- ``nm``
+
+- ``otool``
+
+  - `Display the shared libraries used by an object file`_
 
 Display the shared libraries used by an object file
 ===================================================
